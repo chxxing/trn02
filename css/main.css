@@ -411,7 +411,7 @@
 }
 
 .fixedBg i {
-    padding: 10px;
+    padding: 5px;
     background: #f00;
     vertical-align: -10%;
     border-radius: 50%;
@@ -439,7 +439,7 @@
 }
 
 .fixedBg2 i {
-    padding: 10px;
+    padding: 5px;
     background: #f00;
     vertical-align: -10%;
     border-radius: 50%;
