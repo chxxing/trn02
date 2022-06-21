@@ -29,3 +29,4 @@ $(function () {
     $('.mainArrow i:nth-child(2)').on('click', function () {
         $('.mainSlider').slick('slickNext')
     });
+})
