@@ -759,6 +759,11 @@
 
 #footer .top i {
     font-size: 25px;
+    margin: 0 8px;
+}
+
+#footer .top .sns a:nth-child(1) {
+    margin: 0 3px;
 }
 
 #footer .container {
